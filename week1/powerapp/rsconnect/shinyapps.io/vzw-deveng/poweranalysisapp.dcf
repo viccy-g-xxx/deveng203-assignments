@@ -1,0 +1,12 @@
+name: poweranalysisapp
+title: poweranalysisapp
+username: vzw-deveng
+account: vzw-deveng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11051029
+bundleId: 8190650
+url: https://vzw-deveng.shinyapps.io/poweranalysisapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,6 @@
+Package: powercalcs
+Encoding: UTF-8
+Type: Package
+Title: Simple power analysis
+Version: 0.0.0.1
+RoxygenNote: 7.3.1
